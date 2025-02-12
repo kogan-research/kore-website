@@ -1,14 +1,12 @@
 ---
-title: "website"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+pagetitle: "MESA Lab"
+title: "M..E..S..A.. Lab"
+# page-layout: full
+toc: false
 ---
+
+::: {.lead}
+  We are a research group at the [Kahlert School of Computing](https://cs.utah.edu) at the [University of Utah](https://utah.edu). We...
+:::
 
 

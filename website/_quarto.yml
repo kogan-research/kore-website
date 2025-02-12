@@ -1,19 +1,19 @@
 project:
   type: website
 
+execute:
+  freeze: auto
+
 website:
-  title: "website"
+  title: "MESA Lab"
   navbar:
     right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+
 format:
   html:
     theme: cosmo
     css: styles.css
-
-
-
