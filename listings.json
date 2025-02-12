@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/example1.html",
+      "/publications/example2.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/staff/marina-kogan.html"
+    ]
+  }
+]
