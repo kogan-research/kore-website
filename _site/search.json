@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "M..E..S..A.. Lab",
+    "objectID": "people/staff/marina-kogan.html",
+    "href": "people/staff/marina-kogan.html",
+    "title": "Marina Kogan",
     "section": "",
-    "text": "We are a research group at the Kahlert School of Computing at the University of Utah. We…"
+    "text": "asdfadf\n\n\n\n\nasdfasdf\n\n\n \n  \n   \n  \n    \n     website\n  \n  \n    \n     vitae\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "people/staff/marina-kogan.html#biography",
+    "href": "people/staff/marina-kogan.html#biography",
+    "title": "Marina Kogan",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "asdfadf"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "people/staff/marina-kogan.html#education",
+    "href": "people/staff/marina-kogan.html#education",
+    "title": "Marina Kogan",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "asdfasdf"
   },
   {
     "objectID": "about.html",
@@ -28,53 +28,11 @@
     "text": "About this blog"
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "MESA Lab @ University of Utah",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "M..E..S..A.. Lab",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 11, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 8, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "Lab director\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#research-staff",
-    "href": "people.html#research-staff",
-    "title": "People",
-    "section": "",
-    "text": "Lab director\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#graduate-students",
-    "href": "people.html#graduate-students",
-    "title": "People",
-    "section": "Graduate Students",
-    "text": "Graduate Students\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#research-assistants",
-    "href": "people.html#research-assistants",
-    "title": "People",
-    "section": "Research Assistants",
-    "text": "Research Assistants\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Name\n        \n         \n          Role\n        \n         \n          Started\n        \n         \n          Ended\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nRole\n\n\nStarted\n\n\nEnded\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "MESA Lab @ University of Utah",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n  \n   Lorem ipsum\n    John Doe\n    CHI\n    (2024)\n     Details \n    \n    \n      DOI\n    \n      \n  \n  \n   New paper\n    John Doe\n    CHI\n    (2024)\n     Details \n    \n    \n      DOI\n    \n      \n  \n  \n\n\n\nNo matching items"
+    "text": "We are a research group at the Kahlert School of Computing at the University of Utah. We…"
   },
   {
     "objectID": "publications/example2.html",
@@ -119,24 +77,45 @@
     "text": "Abstract\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
-    "objectID": "people/staff/marina-kogan.html",
-    "href": "people/staff/marina-kogan.html",
-    "title": "Marina Kogan",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "MESA Lab @ University of Utah",
     "section": "",
-    "text": "asdfadf\n\n\n\n\nasdfasdf\n\n\n \n  \n   \n  \n    \n     website\n  \n  \n    \n     vitae\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n  \n   Lorem ipsum\n    John Doe\n    CHI\n    (2024)\n     Details \n    \n    \n      DOI\n    \n      \n  \n  \n   New paper\n    John Doe\n    CHI\n    (2024)\n     Details \n    \n    \n      DOI\n    \n      \n  \n  \n\n\n\nNo matching items"
   },
   {
-    "objectID": "people/staff/marina-kogan.html#biography",
-    "href": "people/staff/marina-kogan.html#biography",
-    "title": "Marina Kogan",
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
     "section": "",
-    "text": "asdfadf"
+    "text": "Lab director\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "people/staff/marina-kogan.html#education",
-    "href": "people/staff/marina-kogan.html#education",
-    "title": "Marina Kogan",
+    "objectID": "people.html#research-staff",
+    "href": "people.html#research-staff",
+    "title": "People",
     "section": "",
-    "text": "asdfasdf"
+    "text": "Lab director\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#graduate-students",
+    "href": "people.html#graduate-students",
+    "title": "People",
+    "section": "Graduate Students",
+    "text": "Graduate Students\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#research-assistants",
+    "href": "people.html#research-assistants",
+    "title": "People",
+    "section": "Research Assistants",
+    "text": "Research Assistants\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Name\n        \n         \n          Role\n        \n         \n          Started\n        \n         \n          Ended\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nRole\n\n\nStarted\n\n\nEnded\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

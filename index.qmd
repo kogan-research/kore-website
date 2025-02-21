@@ -8,5 +8,3 @@ toc: false
 ::: {.lead}
   We are a research group at the [Kahlert School of Computing](https://cs.utah.edu) at the [University of Utah](https://utah.edu). We...
 :::
-
-
